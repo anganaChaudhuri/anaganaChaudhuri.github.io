@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A confession of Love"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+## Dear Angana
+
+I would like to start off by saying that I love you. I love your company. When I am with you time just flies. I don't have to think about topics to converse, things just take their normal course. When I see you photo in the mornings, it makes the mornings good. When I go to bed, I have dreams. When I talk you after a bad day I smile. 
+
+I know that I hurt you sometimes. I need to be more careful. When a person you love says something hurtful, it hurts even more. I have hurt you a lot this past week. I have been a very bad boyfriend and it hurts. I want to be the reason you smile. Not the reason who ruins your day. I know you work had towards your goals. I know that most days I am the one who keeps you up late at night.
+
+
+
+
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
