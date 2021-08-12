@@ -17,17 +17,39 @@ Education
 * Indian Cerificate to Secondary Education, St. Joseph's Convent, Chandannagar, India, 2014
 
 
-Work experience
+Research experience
 ======
-* December 2017: Research Assistant
+* November 2020 - June 2022 (Ongoing): Research Scholar 
+  * Bioenergy Lab, School of Energy Science and Engineering, IIT Guwahati, India
+  * Topic: Enhanced biomass production through biofilm growth of algae for biovalorisation
+  * Supervisor: Dr. Vaibhav V Goud
+
+* July 2020 - November 2020 
+  * Indian Institute of Technology, Guwahati, India 
+  * Topic: Solar-Biomass Hybrid Energy Generation
+  * Supervisor: Dr. Pankaj Kalita
+
+* January 2020 - June 2020: Reaserch Student 
+  * Bioprocess and Bioseperation Lab, School of Bioengineering, SRMIST, India
+  * Topic: A sustainable approach for the synthesis of PHBV bio-composite by employing corncob derived nanocellulose as a reinforcing agent
+  * Supervisor: Mrs. P. Radha
+
+* January 2018 - June 2018: Reaserch Student * Bioprocess and Bioseperation Lab, School of Bioengineering, SRMIST, India
+  * Topic: A sustainable approach for the synthesis of PHBV bio-composite by employing corncob derived nanocellulose as a reinforcing agent
+  * Supervisor: Mrs. P. Radha
+
+* December 2017: Research Intern
   * Centre for Research in Nanoscience and Nanotechnology(CRNN), Kolkata, India
   * Topic: Basic instrumentation techniques used in cancer nanotherapeutics for cancer
   * Supervisor: Dr. Arghya Adhikary
 
-* June 2018: Research Assistant
+* June 2018: Research Intern
   * Ballygunge Science College, Kolkata
   * Topic: Single nucleotide polymorphism
   * Supervisor: Dr. Madhusudan Das (Dean of science)
+
+Non Research Project
+======
 
 
   
@@ -68,6 +90,7 @@ Extra Curricular Activities
 * Participared and won in various elocution, debate and quiz competitions in school and college life
 * Organised and Volunteered at different conferences, fests and other events in college and school
 * Social service worker in various NGO's
+
   
 <!-- Talks
 ======
