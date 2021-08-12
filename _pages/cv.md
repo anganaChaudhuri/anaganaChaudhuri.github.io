@@ -17,6 +17,12 @@ Education
 * Indian Cerificate to Secondary Education, St. Joseph's Convent, Chandannagar, India, 2014
 
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Research experience
 ======
 * November 2020 - June 2022 (Ongoing): Research Scholar 
@@ -55,11 +61,21 @@ Research experience
   * Supervisor: Dr. Arghya Adhikary
 
 
+Conferences and Webinars
+======
+* International Conference on Environment, Agriculture, Human and Animal Health (ICEAAH 2021), 5th - 6th June, 2021
+* FluxMAPS 2021 Indo UK Symposium by IIT Mandi on “Fluxomics of Microbe and Plant System”, 24th - 25th March, 2021
+* Harvard US India Initiative 2021 – Delegate, 5th - 7th February, 2021
+* Webinar on - Microbiome – Perceptions and perspectives, Organised by: Biotecnika Info Labs Pvt Ltd, 27 June, 2020
+* Biological Engineering Society Conference (BESCON 2019), Organised by: IIT Madras, 18th - 19th October, 2019, (Participated and Presented poster on biopolymer)
+* International Conference on Sustainable Technologies for the Industrial hazardous waste Management and Bioenergy, Organised by: SRM IST, 07th - 09th August, 2019. (Participated and Presented poster on Biodiesel)
+* International Conference on Immunology, organised by: SRM IST 26th - 28th September, 2018 (Participated)
+
 Non Research Project
 ======
+* Breast Cancer Prediction using Machine Learning (2021)
+* Classification of Covid19 using Chest X-ray images in Keras (2021)
 
-
-  
 Skills
 ======
 * Analytical Skills
@@ -74,21 +90,6 @@ Skills
   * Bioinformatics
   * Word
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Conferences and Webinars
-======
-* International Conference on Environment, Agriculture, Human and Animal Health (ICEAAH 2021), 5th - 6th June, 2021
-* FluxMAPS 2021 Indo UK Symposium by IIT Mandi on “Fluxomics of Microbe and Plant System”, 24th - 25th March, 2021
-* Harvard US India Initiative 2021 – Delegate, 5th - 7th February, 2021
-* Webinar on - Microbiome – Perceptions and perspectives, Organised by: Biotecnika Info Labs Pvt Ltd, 27 June, 2020
-* Biological Engineering Society Conference (BESCON 2019), Organised by: IIT Madras, 18th - 19th October, 2019, (Participated and Presented poster on biopolymer)
-* International Conference on Sustainable Technologies for the Industrial hazardous waste Management and Bioenergy, Organised by: SRM IST, 07th - 09th August, 2019. (Participated and Presented poster on Biodiesel)
-* International Conference on Immunology, organised by: SRM IST 26th - 28th September, 2018 (Participated)
 
 Extra Curricular Activities
 ======
