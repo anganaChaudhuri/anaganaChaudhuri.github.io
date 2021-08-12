@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. by research in Energy Science and Engineering, Indian Institute of Technology, Guwahati, India, Graduating July 2022
+* B.Tech in Biotechnology, SRM Institute of science and technology, India, 2020
+* Indian School Cerificate, St. Joseph's Convent, Chandannagar, India, 2016
+* Indian Cerificate to Secondary Education, St. Joseph's Convent, Chandannagar, India, 2014
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2017: Research Assistant
+  * Centre for Research in Nanoscience and Nanotechnology(CRNN), Kolkata, India
+  * Topic: Basic instrumentation techniques used in cancer nanotherapeutics for cancer
+  * Supervisor: Dr. Arghya Adhikary
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018: Research Assistant
+  * Ballygunge Science College, Kolkata
+  * Topic: Single nucleotide polymorphism
+  * Supervisor: Dr. Madhusudan Das (Dean of science)
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Analytical Skills
+  * UV-Vis Spectrophotometer
+  * GC-MS 
+  * HPLC
+  * Oxidation Stability - PetroOXY
+  * Rotary Evaporator
+* Technical Skills
+  * Machine Learning
+  * Programming Langauges: Python, C, Java
+  * Bioinformatics
+  * Word
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
