@@ -34,19 +34,26 @@ Research experience
   * Topic: A sustainable approach for the synthesis of PHBV bio-composite by employing corncob derived nanocellulose as a reinforcing agent
   * Supervisor: Mrs. P. Radha
 
-* January 2018 - June 2018: Reaserch Student * Bioprocess and Bioseperation Lab, School of Bioengineering, SRMIST, India
-  * Topic: A sustainable approach for the synthesis of PHBV bio-composite by employing corncob derived nanocellulose as a reinforcing agent
+* July 2019 - November 2019 
+  * SRMIST, India 
+  * Topic: Dairy wastewater as a substrate for the production of bioethanol accompanied by other valuable coproducts using *Scendesmus obliquus*
+  * Supervisor: Dr. Samuel Jacob
+
+* January 2019 - June 2019: Reaserch Student 
+  * Bioprocess and Bioseperation Lab, School of Bioengineering, SRMIST, India
+  * Topic: Goat tallow as an alternate substrate for the production of single cell oil(SCO) and thereof for the production of biodiesel 
   * Supervisor: Mrs. P. Radha
+
+* June 2018: Research Intern
+  * Ballygunge Science College, Kolkata
+  * Topic: Single nucleotide polymorphism
+  * Supervisor: Dr. Madhusudan Das (Dean of science)
 
 * December 2017: Research Intern
   * Centre for Research in Nanoscience and Nanotechnology(CRNN), Kolkata, India
   * Topic: Basic instrumentation techniques used in cancer nanotherapeutics for cancer
   * Supervisor: Dr. Arghya Adhikary
 
-* June 2018: Research Intern
-  * Ballygunge Science College, Kolkata
-  * Topic: Single nucleotide polymorphism
-  * Supervisor: Dr. Madhusudan Das (Dean of science)
 
 Non Research Project
 ======
