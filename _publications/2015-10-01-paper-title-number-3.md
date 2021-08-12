@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "A Sustainable Approach for the Synthesis of Poly (3-hydroxybutyrate-co-3-hydroxyvalerate) Biocomposite by Employing Corncob-Derived Nanocellulose as a Reinforcing Agent"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/paper3
+excerpt: 'Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) is a copolymer synthesized by Bacillus megaterium co-utilizing cheese whey and food waste hydrolysate for its one-step production. The optimized substrate ratio of 60:40 (v/v) manifested maximum biomass of 3.09 ± 0.12 g/L and PHBV yield of 2.0 ± 0.3 g/L. Batch kinetics study revealed maximum biomass and PHBV yield of 3.05 ± 0.07 g/L and 2.175 ± 0.06 g/L respectively, with 71.43 ± 0.28% g/g PHBV content. The integration of corncob-derived nanocellulose into PHBV was confirmed by scanning electron microscopy (SEM), Fourier transform infrared spectroscopy (FT-IR), and X-ray diffraction (XRD) analysis. Thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC) analyzed the thermal characteristics of the PHBV biocomposite, where the highest degradation temperature was obtained at 790 °C, thus exhibiting high thermal stability. The mechanical properties such as Young's modulus, elongation at break, and tensile strength of the biocomposite was comparatively higher than PHBV and was found to be 40 MPa, 5.310%, and 11.110 MPa, respectively. The enhanced thermal and mechanical characteristics of PHBV biocomposite proves that the corncob-derived nanocellulose can be employed as a reinforcing agent.'
+date: 2021-01-05
+venue: 'Journal of Polymers and the Environment'
+paperurl: 'https://doi.org/10.1007/s10924-020-01994-3'
+citation: 'Narayanan, S., Anjum, S., Chaudhuri, A. et al. A Sustainable Approach for the Synthesis of Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) Biocomposite by Employing Corncob-Derived Nanocellulose as a Reinforcing Agent. J Polym Environ 29, 2080–2095 (2021). '
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) is a copolymer synthesized by Bacillus megaterium co-utilizing cheese whey and food waste hydrolysate for its one-step production. The optimized substrate ratio of 60:40 (v/v) manifested maximum biomass of 3.09 ± 0.12 g/L and PHBV yield of 2.0 ± 0.3 g/L. Batch kinetics study revealed maximum biomass and PHBV yield of 3.05 ± 0.07 g/L and 2.175 ± 0.06 g/L respectively, with 71.43 ± 0.28% g/g PHBV content. The integration of corncob-derived nanocellulose into PHBV was confirmed by scanning electron microscopy (SEM), Fourier transform infrared spectroscopy (FT-IR), and X-ray diffraction (XRD) analysis. Thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC) analyzed the thermal characteristics of the PHBV biocomposite, where the highest degradation temperature was obtained at 790 °C, thus exhibiting high thermal stability. The mechanical properties such as Young's modulus, elongation at break, and tensile strength of the biocomposite was comparatively higher than PHBV and was found to be 40 MPa, 5.310%, and 11.110 MPa, respectively. The enhanced thermal and mechanical characteristics of PHBV biocomposite proves that the corncob-derived nanocellulose can be employed as a reinforcing agent.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://anganachaudhuri.github.io/files/paper3.pdf)
