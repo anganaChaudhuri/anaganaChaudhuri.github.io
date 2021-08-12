@@ -2,14 +2,12 @@
 title: "Synthesis of single-cell oil by Yarrowia lipolytica MTCC 9520 utilizing slaughterhouse lipid waste for biodiesel production"
 collection: publications
 permalink: /publication/paper2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The present study explores biodiesel production from the single-cell oil (SCO) synthesized by Yarrowia lipolytica MTCC 9520, utilizing slaughterhouse lipid waste, goat tallow, as the carbon substrate. Various parameters, including cultivation time (96 h), pH(6), substrate concentration (1.5%, v/v), inoculum size (5%, v/v), and C/N ratio (100), were optimized to attain the maximum biomass and lipid yield and lipid content of 3.8 g/L, 2.6 g/L, and 69.3% (g/g dry weight), respectively. The presence of intracellular lipid bodies in Y. lipolytica was confirmed by observing the Nile red-stained cells by fluorescence microscopy. Besides, the fluorescence intensities of the intracellular lipid bodies were determined by the flow cytometer. The extracted SCO from Y. lipolytica MTCC 9520 was analyzed by Fourier transform infrared (FT-IR) spectroscopy. Gas chromatography-mass spectrometry (GC-MS) analysis of the transesterified SCO presented the fatty acid methyl ester (FAME) profile, including palmitic acid (42.9%), stearic acid (21.5%), myristic acid (18.3%), and oleic acid (7.0%). The obtained FAME composition was further used to predict the properties of the biodiesel. The revealed characteristics of the transesterified FAMEs signify the candidature of the synthesized SCO as an alternate feedstock for biodiesel production.'
+date: '2020-11-25'
+venue: 'Biomass Conversion and Biorefinery'
+paperurl: 'https://doi.org/10.1007/s13399-020-01132-y'
+citation: 'Radha, P., Narayanan, S., Chaudhuri, A. et al. Synthesis of single-cell oil by Yarrowia lipolytica MTCC 9520 utilizing slaughterhouse lipid waste for biodiesel production. Biomass Conv. Bioref. (2020). '
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The present study explores biodiesel production from the single-cell oil (SCO) synthesized by Yarrowia lipolytica MTCC 9520, utilizing slaughterhouse lipid waste, goat tallow, as the carbon substrate. Various parameters, including cultivation time (96 h), pH(6), substrate concentration (1.5%, v/v), inoculum size (5%, v/v), and C/N ratio (100), were optimized to attain the maximum biomass and lipid yield and lipid content of 3.8 g/L, 2.6 g/L, and 69.3% (g/g dry weight), respectively. The presence of intracellular lipid bodies in Y. lipolytica was confirmed by observing the Nile red-stained cells by fluorescence microscopy. Besides, the fluorescence intensities of the intracellular lipid bodies were determined by the flow cytometer. The extracted SCO from Y. lipolytica MTCC 9520 was analyzed by Fourier transform infrared (FT-IR) spectroscopy. Gas chromatography-mass spectrometry (GC-MS) analysis of the transesterified SCO presented the fatty acid methyl ester (FAME) profile, including palmitic acid (42.9%), stearic acid (21.5%), myristic acid (18.3%), and oleic acid (7.0%). The obtained FAME composition was further used to predict the properties of the biodiesel. The revealed characteristics of the transesterified FAMEs signify the candidature of the synthesized SCO as an alternate feedstock for biodiesel production.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://anganachaudhuri.github.io/files/paper2.pdf)
