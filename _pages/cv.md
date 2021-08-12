@@ -91,6 +91,10 @@ Skills
   * Word
 
 
+Key Courses
+======
+Bioenergy, Environmental biotechnology, Industrial Biotechnology, Enzyme engineering and technology, Bioinformatics, Regulation of gene expressions in plants, Plant Biotechnology, Bioprocess engineering, Machine Learning, Summer Analytics, Digital Marketing
+
 Extra Curricular Activities
 ======
 * Trained classical dancer in Bharatnatyam and Rabindra Nritya
@@ -99,6 +103,22 @@ Extra Curricular Activities
 * Organised and Volunteered at different conferences, fests and other events in college and school
 * Social service worker in various NGO's
 
+Acheivements
+======
+* **Award for Excellence (2021)**: Young Researcher Award (ICEAAH 2021)
+* **West Bengal Govt. Scholarship (2020)**: Excellent performance in B.Tech.
+* **West Bengal Govt. Scholarship (2016)**: Excellent performance in ISC (12th)
+* **National Science Olympiad (2016)**: School rank 3
+* **Inter School Science Exhibition (2015)**: 1st prize in Chemistry (Biodiesel)
+* **Spell Bee Competition (2014)**: Qualified till the national level
+
+Positons of Responsibility
+======
+* Department Placement Coordinator, School of Energy Science and Engineering, IIT Guwahati (2021-2022)
+* **Research student** at Bioenergy Lab – IIT Guwahati (MSR) (2020-2022)
+* Member of Youth and Empowerment club IIT Guwahati
+* **Research trainee** at Bioprocess and Bioseparation laboratory at SRMIST, school of bioengineering (B.tech) (2018-2020)
+* Former member of the environment club, by SRMIST (B.Tech) (2018)
   
 <!-- Talks
 ======
