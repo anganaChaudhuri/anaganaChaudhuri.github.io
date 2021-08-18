@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. by research in Energy Science and Engineering, Indian Institute of Technology, Guwahati, Graduating July 2022
-* B.Tech in Biotechnology, SRM Institute of science and technology, India, 2020
+* **M.S. by Research** in **Energy Science and Engineering**, Indian Institute of Technology, Guwahati, Graduating July 2022
+* **B.Tech** in **Biotechnology**, SRM Institute of Science and Technology, India, 2020
 * Indian School Cerificate, St. Joseph's Convent, Chandannagar, India, 2016
 * Indian Cerificate to Secondary Education, St. Joseph's Convent, Chandannagar, India, 2014
 
@@ -63,6 +63,7 @@ Research experience
 
 Conferences and Webinars
 ======
+* Internation Energy Symposium 
 * International Conference on Environment, Agriculture, Human and Animal Health (ICEAAH 2021), 5th - 6th June, 2021
 * FluxMAPS 2021 Indo UK Symposium by IIT Mandi on “Fluxomics of Microbe and Plant System”, 24th - 25th March, 2021
 * Harvard US India Initiative 2021 – Delegate, 5th - 7th February, 2021
