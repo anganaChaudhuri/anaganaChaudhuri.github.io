@@ -63,7 +63,7 @@ Research experience
 
 Conferences and Webinars
 ======
-* Internation Energy Symposium 
+* International Energy Symposium by IIT Bombay TU Delft and NTU, 8th - 9th June 2021
 * International Conference on Environment, Agriculture, Human and Animal Health (ICEAAH 2021), 5th - 6th June, 2021
 * FluxMAPS 2021 Indo UK Symposium by IIT Mandi on “Fluxomics of Microbe and Plant System”, 24th - 25th March, 2021
 * Harvard US India Initiative 2021 – Delegate, 5th - 7th February, 2021
