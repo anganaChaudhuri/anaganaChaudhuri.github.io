@@ -103,6 +103,7 @@ Extra Curricular Activities
 * Participared and won in various elocution, debate and quiz competitions in school and college life
 * Organised and Volunteered at different conferences, fests and other events in college and school
 * Social service worker in various NGO's
+* Moderator at International Joint Webinar by IIT Guwahati with Gifu University, Japan
 
 Acheivements
 ======
@@ -113,10 +114,11 @@ Acheivements
 * **Inter School Science Exhibition (2015)**: 1st prize in Chemistry (Biodiesel)
 * **Spell Bee Competition (2014)**: Qualified till the national level
 
-Positons of Responsibility
+Positions of Responsibility
 ======
 * Department Placement Coordinator, School of Energy Science and Engineering, IIT Guwahati (2021-2022)
 * **Research student** at Bioenergy Lab – IIT Guwahati (MSR) (2020-2022)
+* Sponsor head, Research Conclave, IIT Guwahati (2022)
 * Member of Youth and Empowerment club IIT Guwahati
 * **Research trainee** at Bioprocess and Bioseparation laboratory at SRMIST, school of bioengineering (B.tech) (2018-2020)
 * Former member of the environment club, by SRMIST (B.Tech) (2018)
