@@ -116,7 +116,7 @@ Acheivements
 
 Positions of Responsibility
 ======
-* **Executive Council Member** (ProgrammeRepresentative(MSR)),Student Academic Board,IITGuwahati(2021-2022)
+* **Executive Council Member** (ProgrammeRepresentative (MSR) ), Student Academic Board, IIT Guwahati(2021-2022)
 * Department Placement Coordinator, School of Energy Science and Engineering, IIT Guwahati (2021-2022)
 * **Research student** at Bioenergy Lab – IIT Guwahati (MSR) (2020-2022)
 * Sponsor head, Research Conclave, IIT Guwahati (2022)
